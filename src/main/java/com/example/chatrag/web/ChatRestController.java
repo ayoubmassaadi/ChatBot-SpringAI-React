@@ -1,7 +1,6 @@
 package com.example.chatrag.web;
 
 import com.example.chatrag.services.ChatAiService;
-import com.google.common.net.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
